@@ -1,5 +1,4 @@
-# tadeorodriguezaguerre
-# Hola 👋
+# Hola, soy Tadeo👋
 
 Soy **Desarrollador Full-Stack y Técnico Electrónico**, estudiante de la Tecnicatura Universitaria en Programación en la UNAHUR. Me apasiona unir el mundo del software con el hardware, creando desde aplicaciones web escalables hasta sistemas IoT y automatizaciones con microcontroladores.
 
